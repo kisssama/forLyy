@@ -80,6 +80,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/kisssama/forLyy.git
+  branch: master
 
 jsonContent: 
     meta: false
